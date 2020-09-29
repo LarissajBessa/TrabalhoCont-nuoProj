@@ -7,5 +7,4 @@ public class Main {
 
         void atualizarAluno(Aluno aluno);
     }
-
 }
