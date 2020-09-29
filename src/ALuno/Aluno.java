@@ -33,4 +33,5 @@ public class Aluno {
     public String satcurso(String curso){
         this.curso = curso;
     }
+
 }
